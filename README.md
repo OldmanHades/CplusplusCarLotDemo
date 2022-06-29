@@ -1,2 +1,2 @@
-# CplusplusCarLotDemo
+# C++ Car Lot Demo
 Just a quick demo that I learned in my C++ Class going over Arrays and Pointers...
